@@ -1,1 +1,3 @@
-Formly is a simple jQuery plugin created by Daniel Raftery. I have published it here with a fix for the e-mail validation, so that emails with + in them work properly.
+The form glamorizer for jQuery — Read more
+
+This is a clone of Formly, a simple jQuery plugin created by Daniel Raftery (http://thrivingkings.com/formly/) containing a simple fix for email validation.
