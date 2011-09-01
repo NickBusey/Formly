@@ -1,0 +1,1 @@
+Formly is a simple jQuery plugin created by Daniel Raftery. I have published it here with a fix for the e-mail validation, so that emails with + in them work properly.
